@@ -48,16 +48,11 @@ I enjoy transforming ideas into practical projects, learning new technologies, a
 
 Explore more projects in my [repositories](https://github.com/ManahilFatima16?tab=repositories).
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManahilFatima16&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilFatima16&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🤝 Let's Connect
 
 - GitHub: [@ManahilFatima16](https://github.com/ManahilFatima16)
-- LinkedIn: [Connect with me](www.linkedin.com/in/manahil-fatima-741954402)
+- LinkedIn: [Connect with me]()
 - Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
 
 ---
